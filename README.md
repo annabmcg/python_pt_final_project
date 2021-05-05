@@ -1,2 +1,2 @@
-# python_pt_final_project
-A GitHub repository for Anna McGrady's General Assembly Python Part-Time final project.
+# Information about this Repository and Project
+This is a GitHub repository for Anna McGrady's General Assembly Python Part-Time final project. This project explores the Seattle Public Library's Checkouts by Title dataset, which is maintained as part of the Seattle Open Data Program. The General Assembly class was taught by Tim Book and TA'd by Juliann McEachern. The project included in this responsitory was initially uploaded on Wednesday, May 5, 2021.
